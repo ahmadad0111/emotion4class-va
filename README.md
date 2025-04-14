@@ -4,7 +4,7 @@ This repository contains a **real-time emotion recognition model** that uses **E
 
 - High Valence High Arousal (HVHA)
 - High Valence Low Arousal (HVLA)
-- - Low Valence Low Arousal (LVLV)
+- Low Valence Low Arousal (LVLV)
 - Low Valence High Arousal (LVHA)
 
 ### 🧠 Key Features
